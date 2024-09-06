@@ -1,5 +1,6 @@
 ## Hi there 👋
-[![Les Stats GitHub de BrigitteMesrine](https://github-readme-stats.vercel.app/api?username=BrigitteMesrine)](https://github.com/BrigitteMesrine/github-readme-stats)
+[![trophy](https://github-profile-trophy.vercel.app/?username=BrigitteMesrine
+)](https://github.com/BrigitteMesrine/github-profile-trophy)
 
 <!--
 **BrigitteMesrine/BrigitteMesrine** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
