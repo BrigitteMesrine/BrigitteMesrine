@@ -1,6 +1,5 @@
 ## Hi there 👋
-[![trophy](https://github-profile-trophy.vercel.app/?username=BrigitteMesrine
-)](https://github.com/BrigitteMesrine/github-profile-trophy)
+[![trophy](https://github-profile-trophy.vercel.app/?username=BrigitteMesrine)](https://github.com/BrigitteMesrine/github-profile-trophy)
 
 <!--
 **BrigitteMesrine/BrigitteMesrine** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
